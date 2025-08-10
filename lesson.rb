@@ -12,3 +12,6 @@ def fizzbizz(n)
     end
   end
 end
+
+# コンソールに出力する処理をメソッド呼び出しを追加
+fizzbizz(100)
