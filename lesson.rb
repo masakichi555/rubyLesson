@@ -8,7 +8,7 @@ def fizzbizz(n)
     elsif i % 5 == 0
       puts "Bizz"
     else
-      puts i
+  puts i
     end
   end
 end
