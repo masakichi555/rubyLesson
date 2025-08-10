@@ -1,0 +1,5 @@
+{
+  "rubyLsp.enabled": true,
+  "editor.formatOnSave": true,
+  "rubyLsp.useBundler": true
+}
